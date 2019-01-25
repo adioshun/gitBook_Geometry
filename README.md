@@ -8,21 +8,4 @@
 
 
 
-다음은 예상되는 목차 리스트입니다.
-
-
-
-1. 좌표계 (Coordinate System)
-
-2. Homogeneous Coordinates
-
-3. 2D 변환 (2D Transformations)
-
-4. 3D 변환 (3D Transformations)
-
-5. Imaging Geometry
-
-6. Epipolar Geometry
-
-7. ...
 
