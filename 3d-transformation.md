@@ -52,3 +52,7 @@
 > 자세한 내용은 내공 쌓고 다시 [참고](https://darkpgmr.tistory.com/81?category=460965)
 
 
+
+### 2.3 좌표축 변환 
+
+월드 좌표계 -> 카메라 좌표계로의 변환 [[참고]](https://darkpgmr.tistory.com/84)
