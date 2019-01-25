@@ -39,3 +39,16 @@
 
 #### A. 회전 변환 구하기 
 
+> 자세한 내용은 홈페이지 [참고](https://darkpgmr.tistory.com/81?category=460965)
+
+
+#### B. 회전 + 평행 이동 변환 구하기 
+
+![](https://i.imgur.com/X2pOb4m.png)
+
+3D에서 rigid 변환을 결정하기 위해 필요한 매칭쌍의 개수는 3개입니다.
+
+
+> 자세한 내용은 내공 쌓고 다시 [참고](https://darkpgmr.tistory.com/81?category=460965)
+
+
