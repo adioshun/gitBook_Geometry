@@ -85,3 +85,14 @@
 
 
 
+---
+
+OpenCV에서 2D 변환과 관련된 함수들을 정리해 보았습니다.
+
+- estimateRigidTransform(): 다수의 매칭쌍으로부터  similarity 변환이나 affine 변환을 구할 때 사용 (파라미터로 선택 가능). 내부적으로 RANSAC을 이용. opencv2/video/video.hpp
+- getAffineTransform(): 3쌍의 입력 매칭쌍으로부터 affine 변환을 구해줌. opencv2/imgproc/imgproc.hpp
+- invertAffineTransform(): affine 변환의 역변환을 구해줌, opencv2/imgproc/imgproc.hpp
+- getPerspectiveTransform(): 4쌍의 입력 매칭쌍으로부터 homography 행렬을 계산해 줌. opencv2/imgproc/imgproc.hpp
+- findHomography(): 다수의 매칭쌍으로부터 homography 행렬을 계산해 줌 (근사 방법은 전체 데이터 fitting, RANSAC, LMedS 중 선택), opencv2/calib3d/calib3d.hpp
+- transform(): 2×2 또는 2×3 변환행렬(similarity, affine 등)을 이용하여 좌표변환을 할 때 사용
+- perspectiveTransform(): 3x3 homography 변환행렬 또는 4×4 변환행렬을 이용하여 좌표변환을 할 때 사용
