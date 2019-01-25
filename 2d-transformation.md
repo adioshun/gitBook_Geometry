@@ -26,11 +26,15 @@
 - Affine Transformations
 - 원근변환(Projective Transformation)
 
-#### A. 강체 변환(Ridid-Body transformation)
+#### A. 강체 변환(Ridid-Body/Euclidean transformation)
 
 - 강체 = 단단한 물체 
-- 변환 후에도 속성(크기, 각도)을 유지한다. 
-- 예 : Translaton, Rotation
+- 변환 후에도 속성(크기, 각도)을 유지한다.
+- 예 : 회전(rotation)과 평행이동(translation)만을 허용
+
+|![](https://i.imgur.com/kHTiPA8.png)|![](https://i.imgur.com/BhIj6YR.png)|![](https://i.imgur.com/cO4kh8Z.png)|
+|-|-|-|
+|평행이동(translation)|회전(rotation)|Rigid = Translation + rotation|
 
  
 #### B. 유사 변환(Similarity Transformations)
@@ -50,7 +54,7 @@
 - 변환 후에도 이전의 평행한 선만은 유지 한다.  
 
 
-#### E. 원근변환(Projective Transformation)
+#### E. 원근변환(Projective/Homography Transformation) 
 
 - 변환 후에도 최소 선만은 보존된다. 
 
