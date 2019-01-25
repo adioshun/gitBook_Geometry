@@ -7,4 +7,5 @@
 * [References](references.md)
 * [Imaging-Geometry\_Calibration](imaging-geometrycalibration.md)
 * [Epipolar-Geometry](epipolar-geometry.md)
+* [Pose-Estimation](pose-estimation.md)
 
