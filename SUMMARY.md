@@ -17,6 +17,7 @@
 
 ## Coursera
 
+* README
 * [Coursera-Chapter1](coursera/coursera-chapter1.md)
 
 ## 참고
