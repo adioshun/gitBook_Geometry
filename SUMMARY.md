@@ -17,7 +17,7 @@
 
 ## Coursera
 
-* [README](coursera/readme.md)
+* [README](coursera/README.md)
 * [Coursera-Chapter1](coursera/coursera-chapter1.md)
 
 ## 참고
