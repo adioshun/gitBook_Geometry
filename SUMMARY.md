@@ -17,7 +17,7 @@
 
 ## Coursera
 
-* Coursera-Chapter1
+* [Coursera-Chapter1](coursera/coursera-chapter1.md)
 
 ## 참고
 
