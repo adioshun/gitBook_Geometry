@@ -3,10 +3,10 @@
 ## 기하학
 
 * [Introduction](README.md)
+* [Geometry\_Intro](geometryintro.md)
 * [coordinate\_system](coordinatesystem.md)
 * [2d-Transformation](2d-transformation.md)
 * [3d-Transformation](3d-transformation.md)
-* [Geometry\_Intro](geometryintro.md)
 
 ## 활용
 
