@@ -11,9 +11,7 @@
 ## 활용
 
 * [Imaging-Geometry\_Calibration](imaging-geometrycalibration.md)
-* [Epipolar-Geometry](epipolar-geometry.md)
 * [Gound-Projection](gound-projection.md)
-* [Pose-Estimation](pose-estimation.md)
 
 ## Coursera
 
