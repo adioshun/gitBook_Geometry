@@ -9,9 +9,7 @@
   * [Homo-Coordinates](coordinatesystem/homo-coordinates.md)
 * [선형대수학](https://adioshun.gitbooks.io/linear-algebra/content/)
 
-
 ## 2D Geometry
-
 
 * [README](2D-Geometry/README.md)
 * [2D-Transformation](2d-transformation.md)
@@ -20,14 +18,10 @@
 
 ## 3D Geometry
 
-
 * [README](3D-Geometry/README.md)
 * [3D-Transformation](3d-transformation.md)
+  * [Rotation Matrix](3d-transformation/rotation-matrix.md)
 * [3D-강제변환](https://adioshun.gitbooks.io/deep-slam/content/SLAM-kr-Tutorial/chapter-3.html)
-
-
-
-
 
 ## 활용
 
@@ -38,8 +32,4 @@
 
 * [README](coursera/README.md)
 * [Coursera-Chapter1](coursera/coursera-chapter1.md)
-
-
-
-
 
