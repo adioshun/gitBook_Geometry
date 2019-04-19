@@ -1,6 +1,10 @@
 # Transformations
 
-> [darkpgmr](https://darkpgmr.tistory.com/79?category=460965), [shksjy](http://blog.daum.net/shksjy/228)
+[darkpgmr](https://darkpgmr.tistory.com/79?category=460965), [shksjy](http://blog.daum.net/shksjy/228)
+[[추천] 3D TRANSFORMATIONS](http://web.iitd.ac.in/~hegde/cad/lecture/L6_3dtrans.pdf): ppt
+
+
+
 
 ## 1. 2D 변환
 
