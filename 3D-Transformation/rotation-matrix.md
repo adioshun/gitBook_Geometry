@@ -55,9 +55,10 @@
 - 선형 변환을 이용하는 방법 
 - etc. 
 
-### Transformation Matrix 개요 
+### [Rotation Matrix 개요 ](https://youtu.be/MgB0oiIhoTQ?t=238)
 
-간단한 2차식에서의 예 : https://youtu.be/Y0Vjc9sOq-M?t=620
+
+![](https://i.imgur.com/SqpwXIV.png)
 
 - $$ V_a = R_{ab}V_b $$ 
     - $$R_{ab}$$ = a프레임에서 바로본 b프레임 = $$[x_{a에서 바로본 b의}, y_{a에서 바로본 b의}, z_{a에서 바로본 b의}]$$
@@ -65,18 +66,14 @@
 
 
 
-![](https://i.imgur.com/SqpwXIV.png)
-> 공식 유도 : https://youtu.be/MgB0oiIhoTQ?t=238
-
-
-### Euler angle (오일러 각) 회전
-
+### [Euler angle (오일러 각) 회전](https://www.youtube.com/watch?v=Lbkq8pEOFK0)
 
 모든 Rotation Matrix는 3번의 회전(a,b,c)으로 표현 가능 
 - roll, pitch, yaw
 
-오일러 글을 알면 각각을 곱해서 Rotation matrix를 구할수 있음
+오일러 3개의 각을 곱해서 Rotation matrix를 구할수 있음
 
+![](https://i.imgur.com/MB8y39l.png)
 
 3차원 공간에서 
 - Particle은 (x,y,z) 3 DOF를 가짐 
