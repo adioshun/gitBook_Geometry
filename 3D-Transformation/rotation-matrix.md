@@ -4,6 +4,8 @@
 - Rotation matrix 
 - Euler Angles 
 
+> Rotation Matrix to Euler Angles 변환 가능 
+
 
 #### 로봇 공학과 Rotation matrix 
 
