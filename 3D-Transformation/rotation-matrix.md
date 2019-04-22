@@ -89,9 +89,11 @@ Space fixed movement : 회전하는 축이 움직이지 않는것
 Body fixed movement : 이동한 다음에 움직이는 것, 로봇 세상에서 대부분의 움직임 
 ```
 
-### Rotation matrix와 SO(3)그룹 
+### [Rotation matrix와 SO(3)그룹](https://youtu.be/USbu0vIc8VQ)
 
-Roation matrix의 조건에 대한 설명 https://youtu.be/USbu0vIc8VQ
+
+
+Roation matrix의 조건에 대한 설명 
 
 > 그룹 : element, operation (element가 operation후에도 element에 속하면 그룹이라 함) 
 
