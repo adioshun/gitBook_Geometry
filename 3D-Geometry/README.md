@@ -12,3 +12,5 @@
 
 
 > [쿼터니언과 3차원 회전 | Quaternion | 사원수](https://www.youtube.com/watch?v=_nJLDmue0h4): youtube, 홍정모 교수 
+
+> 짐벌 락 설명: [1](https://www.youtube.com/watch?v=YvpBRFFAymA), [2](https://www.youtube.com/watch?v=Mk-RPyRvuhw) youtube
