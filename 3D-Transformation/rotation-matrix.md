@@ -1,4 +1,4 @@
-![](https://i.imgur.com/unDvEgx.png)
+
 
 ### Rotation Matrix를 목적 
 
@@ -7,6 +7,8 @@
 - Euler Angles 
 
 > Rotation Matrix to Euler Angles 변환 가능 
+
+![](https://i.imgur.com/unDvEgx.png)
 
 
 #### 로봇 공학과 Rotation matrix 
