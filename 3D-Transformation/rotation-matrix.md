@@ -35,6 +35,8 @@
 > Transformation Matrix = Rotation Matrix + 길이(관절과 관절 사이)정보 
 
 
+---
+
 ### Rotation Matrix 개요 
 
 - 3x3 행렬 
