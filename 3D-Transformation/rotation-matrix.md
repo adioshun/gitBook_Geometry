@@ -28,7 +28,7 @@
 관절별 내부 모델 
 - Prismatic : 3V,2V,-5V = X,Y,Z (eg. 인형뽑기, 가로로 3초, 세로로 2초, 아래로 5초가면 집게의 위치)
 - Revolute : 각도를 다룸 , $$(\theta_1,\theta_2,\theta_3) = (x,y,z) $$
-    - x = L_1 cos\theta + L_2 cos\..............
+    - x = $$L_1 cos\theta + L_2 cos..............$$
     - y = ...................
     - z = z
 
@@ -41,9 +41,9 @@
 
 ### Rotation Matrix 개요 
 
-- 3x3 행렬 
-- det(R) = +1 (*determinant)
-    - Identity Matrix도 det(R) = +1
+- 형태 : 3x3 행렬 
+- 특징 : det(R) = +1 (*determinant)
+- 예 : Identity Matrix도 det(R) = +1
 
 
    

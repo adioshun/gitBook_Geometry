@@ -6,7 +6,12 @@
 
 
 
+1. 오일러각과 회전행렬(Euler Angles and Rotation Matrix) - http://blog.daum.net/pg365/170
+2. 각속도(Angular Velocity)와 오일러각, 회전행렬 간의 관계 - http://blog.daum.net/pg365/171
+3. 쿼터니언(Quaternion)과 오일러각, 회전행렬 간의 관계 - http://blog.daum.net/pg365/172
+4. 회전 보간: 쿼터니언(Quaternion)을 사용한 Slerp(구면 선형 보간) - http://blog.daum.net/pg365/176
 
+ 
 ## 1. 2D 변환
 
 > 이전 노트 참고 
