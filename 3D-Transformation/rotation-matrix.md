@@ -2,6 +2,7 @@
 
 ![](https://i.imgur.com/unDvEgx.png)
 
+> 회전행렬과 쿼터니언을 주로 활용 
 
 #### 로봇 공학과 Rotation matrix 
 
