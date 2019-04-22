@@ -97,3 +97,4 @@ OpenCV에서 2D 변환과 관련된 함수들을 정리해 보았습니다.
 - perspectiveTransform(): 3x3 homography 변환행렬 또는 4×4 변환행렬을 이용하여 좌표변환을 할 때 사용
 ```
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2D_affine_transformation_matrix-ko-001.svg/350px-2D_affine_transformation_matrix-ko-001.svg.png)
