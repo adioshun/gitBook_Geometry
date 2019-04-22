@@ -1,7 +1,8 @@
 # Transformations
 
-[[영상 Geometry #5] 3D 변환](https://darkpgmr.tistory.com/79?category=460965), [shksjy](http://blog.daum.net/shksjy/228) : 다크프로그래머 블로
-[[추천] 3D TRANSFORMATIONS](http://web.iitd.ac.in/~hegde/cad/lecture/L6_3dtrans.pdf): ppt
+- [[영상 Geometry #5] 3D 변환](https://darkpgmr.tistory.com/79?category=460965), [shksjy](http://blog.daum.net/shksjy/228) : 다크프로그래머 블로그 
+- [[추천] 3D TRANSFORMATIONS](http://web.iitd.ac.in/~hegde/cad/lecture/L6_3dtrans.pdf): ppt
+- [Rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix): 위키피디
 
 
 
@@ -27,6 +28,8 @@
 
 |![](https://i.imgur.com/lQ6Bb4L.png)|![](https://i.imgur.com/jsnfVGd.png)|
 |-|-|
+|![](https://i.imgur.com/t5Fxl4L.png)|위 3개의 기본 회전변환 조합하면  임의의 3D 회전을 표현할 수 있다.|
+|
 
 #### B. 평행 이동 
 
