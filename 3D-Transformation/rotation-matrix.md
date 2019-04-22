@@ -63,8 +63,10 @@
     - $$R_{ab}$$ = a프레임에서 바로본 b프레임 = $$[x_{a에서 바로본 b의}, y_{a에서 바로본 b의}, z_{a에서 바로본 b의}]$$
 - $$ R_{ab} * R_{bc} = R_{ac} $$ --> a에서b를 바라보고, b에서c를 바라본것은, 결과적으로 a에서 c를 바라본것과 같다. 
 
-> 공식 유도 : https://youtu.be/MgB0oiIhoTQ?t=238
 
+
+![](https://i.imgur.com/SqpwXIV.png)
+> 공식 유도 : https://youtu.be/MgB0oiIhoTQ?t=238
 
 
 ### Euler angle (오일러 각) 회전
