@@ -25,16 +25,17 @@
 - Universal = 2 x Revolution
 - Spherical = 3 x Revolution 
 
-관절별 내부 모델 
+관절별 내부 모델 (기초적 방법)
 - Prismatic : 3V,2V,-5V = X,Y,Z (eg. 인형뽑기, 가로로 3초, 세로로 2초, 아래로 5초가면 집게의 위치)
 - Revolute : 각도를 다룸 , $$(\theta_1,\theta_2,\theta_3) = (x,y,z) $$
     - x = $$L_1 cos\theta + L_2 cos..............$$
     - y = ...................
     - z = z
 
-> Revolute의 관계식 cos/sin을 통해 구하는것은 복잡하고 어렵기 때문에 이를 쉽게 하는것이 **Rotation Matrix**이다. 
-> 각 관절에서의 Transformation Matrix를 구해서 이를 모두 곱하면 (x,y,z)가 나옴 
-> Transformation Matrix = Rotation Matrix + 길이(관절과 관절 사이)정보 
+관절별 내부 모델 (Rotation Matrix 방법)
+- Revolute의 관계식 cos/sin을 통해 구하는것은 복잡하고 어렵기 때문에 이를 쉽게 하는것이 **Rotation Matrix**이다. 
+- 각 관절에서의 Transformation Matrix를 구해서 이를 모두 곱하면 (x,y,z)가 나옴 
+- 확장 : Rotation Matrix + 길이(관절과 관절 사이)정보 = Transformation Matrix 
 
 
 ---
