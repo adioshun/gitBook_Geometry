@@ -1,12 +1,4 @@
-
-
-### Rotation Matrix를 목적 
-
-물체의 회전을 표현 하기 위한 방법 
-- Rotation matrix 
-- Euler Angles 
-
-> Rotation Matrix to Euler Angles 변환 가능 
+# Rotation Matrix를 목적 
 
 ![](https://i.imgur.com/unDvEgx.png)
 
