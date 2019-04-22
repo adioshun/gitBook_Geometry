@@ -11,7 +11,7 @@
 
 > 이전 노트 참고 
 
-## 2. 3D 변환 (3D Transformations)
+## 2. [3D 변환 (3D Transformations)](https://darkpgmr.tistory.com/81?category=460965)
 
 
 - 강체 변환(회전, 평행 이동)만 고려 
@@ -29,18 +29,23 @@
 |![](https://i.imgur.com/lQ6Bb4L.png)|![](https://i.imgur.com/jsnfVGd.png)|
 |-|-|
 |![](https://i.imgur.com/t5Fxl4L.png)|위 3개의 기본 회전변환 조합하면  임의의 3D 회전을 표현할 수 있다.|
-|
+|![](https://t1.daumcdn.net/cfile/tistory/024BBD4551E1D44422)|임이의 단위벡터$$u=(u_x, u_y, u_z)$$를 축으로 한 회전 변환 행렬|
 
 #### B. 평행 이동 
 
-추가 
+평행 이동 $$ t=[tx,ty,tz]^T $$ 
 
-#### C. 회전 + 평행 이동 = 변환행렬  
+
+
+
+#### C. 회전(R) + 평행 이동(t) = 변환행렬  
 
 |![](https://i.imgur.com/XnxT2oA.png)|![](https://i.imgur.com/gywfsCX.png)|
 |-|-|
 |변환행렬 |변환행렬 (homogeneous 좌표 표현)|
 
+
+>  어떤 행렬 R이 회전변환이 되기 위한 **필요충분 조건**은 RT = R-1, det(R) = 1 이라 한다.
 
 ### 2.2 변환 행렬 구하기 
 

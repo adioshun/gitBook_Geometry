@@ -1,6 +1,7 @@
 # Transformations
 
-> [darkpgmr](https://darkpgmr.tistory.com/79?category=460965), [shksjy](http://blog.daum.net/shksjy/228)
+> [[영상 Geometry #3] 2D 변환 (Transformations)](https://darkpgmr.tistory.com/79?category=460965):다크프로그래머 블로그 
+> [[영상처리] 일지 16: Transformations](http://blog.daum.net/shksjy/228)
 
 ## 1. 2D 변환 (2D Transformations)
 
