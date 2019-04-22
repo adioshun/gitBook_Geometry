@@ -1,8 +1,8 @@
 # Transformations
 
-- [[영상 Geometry #5] 3D 변환](https://darkpgmr.tistory.com/79?category=460965), [shksjy](http://blog.daum.net/shksjy/228) : 다크프로그래머 블로그 
-- [[추천] 3D TRANSFORMATIONS](http://web.iitd.ac.in/~hegde/cad/lecture/L6_3dtrans.pdf): ppt
-- [Rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix): 위키피디
+> [[영상 Geometry #5] 3D 변환](https://darkpgmr.tistory.com/79?category=460965) : 다크프로그래머 블로그 
+> [[추천] 3D TRANSFORMATIONS](http://web.iitd.ac.in/~hegde/cad/lecture/L6_3dtrans.pdf): ppt
+> [Rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix): 위키피디
 
 
 
